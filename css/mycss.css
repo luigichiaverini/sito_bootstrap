@@ -1,0 +1,37 @@
+body{
+	background-color: white;
+}
+.navbar {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+.navbar.navbar{
+	background-color: white;
+	color: red;
+}
+.page-header h2{
+	text-align: center;
+	color: red;
+}
+.page-header h3{
+	text-align: center;
+	padding: 0 60px;
+}
+.page-header{
+	border-bottom: none;
+}
+.copyright{
+	text-align: center;
+}
+#facebook{
+	color: #3b5998;
+}
+#instagram{
+	color: #517fa4;
+}
+#twitter{
+	color: #00aced;
+}
+#follow{
+	color: black;
+}
